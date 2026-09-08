@@ -1,0 +1,6 @@
+1,tea,1,25.0,Completed
+2,cold drink,1,150.0,Completed
+3,momo,2,60.0,Completed
+4,coffee,1,50.0,Completed
+5,chowmien,5,50.0,Completed
+6,momo,1,60.0,Pending

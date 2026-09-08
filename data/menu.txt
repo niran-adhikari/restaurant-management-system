@@ -1,0 +1,5 @@
+chowmien,khaja,50
+momo,khaja,60
+tea,drink,25
+coffee,drink,50
+cold drink,drink,150

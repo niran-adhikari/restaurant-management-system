@@ -1,0 +1,4 @@
+a,aaaa,admin,admin,5678901234,Nepal,@.com
+m,mmmm,manager,mm,1234567899,m,mm@.com
+c,cccc,chef,chef,1221233211,Nepal,c@.com
+cu,cucu,customer,customer,4235764536,Nepal,@.1com
