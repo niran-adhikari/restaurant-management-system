@@ -1,8 +1,5 @@
 # Restaurant Management System
 
-A console-based Restaurant Management System developed using Python. 
-This project provides different features for Admin, Manager, Chef, and Customer users.
-
 ## Features
 
 ### Admin
